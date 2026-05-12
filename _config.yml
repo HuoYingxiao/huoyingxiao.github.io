@@ -23,19 +23,19 @@ repository               : "HuoYingxiao/huoyingxiao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :
+  avatar           : "profile.jpg"
   name             : "Huoying Xiao"
-  pronouns         : # example: "she/her"  
+  pronouns         :  # example: "she/her"  
   bio              :
-  location         :
-  employer         :
+  location         : Manchester, UK
+  employer         : University of Manchester
   uri              : # URL
-  email            :
+  email            : yingxiao.huo@postgrad.manchester.ac.uk
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=Mqjy1pAAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            :
